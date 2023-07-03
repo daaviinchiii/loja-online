@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OnlineShoppingApplication<online-shopping>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.isolutions4u.onlineshopping.OnlineShoppingApplication",
+            "projectName": "online-shopping",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
